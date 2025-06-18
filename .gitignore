@@ -1,0 +1,11 @@
+# Ignore all .log files
+*.log
+
+# Ignore all .html files
+*.html
+
+# Ignore all .xml files
+*.xml
+
+# Ignore all files ending with .tmp in any directory
+**/*.tmp
