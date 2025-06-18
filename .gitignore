@@ -9,3 +9,7 @@
 
 # Ignore all files ending with .tmp in any directory
 **/*.tmp
+
+venv/
+
+results/
